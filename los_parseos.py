@@ -10,4 +10,6 @@ print(type(peso))
 # Intentar el parsing
 edad_en_string = str(edad)
 print(f"La edad anterior era {type(edad)}") 
+print(f"La edad parseada es de tipo {type(edad_en_string)}")
+
 
